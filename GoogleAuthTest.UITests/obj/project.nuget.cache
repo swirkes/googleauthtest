@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yt5lVGA/CsbEtcYC2NSoRjrEcTKDCKgePOLA0gIdYkxUIU9/PQF5L4ke5MJEFbyIlqxz4vCm/bsJ4lNGydfPdQ==",
+  "success": true,
+  "projectFilePath": "/Users/shanewirkes/Projects/GoogleAuthTest/GoogleAuthTest.UITests/GoogleAuthTest.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/shanewirkes/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/shanewirkes/.nuget/packages/xamarin.uitest/3.0.7/xamarin.uitest.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
